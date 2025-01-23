@@ -33,7 +33,7 @@ The **ReelTok** recommendation system operates in several key stages to provide 
    The React frontend allows users to interact with the system, request recommendations, and view suggested videos. The user can select a video from the recommended list, which will then play within the application.
 
 4. **Backend API**  
-   The backend, built with **FastAPI** and **Node.js**, processes user requests and handles the video recommendation generation. FastAPI serves as the API layer that integrates with the recommendation engine to provide dynamic recommendations.
+   The backend, built with **FastAPI** and **AppWrite**, processes user requests and handles the video recommendation generation. FastAPI serves as the API layer that integrates with the recommendation engine to provide dynamic recommendations.
 
 5. **Live Recommendations**  
    Once the user provides their interaction data (e.g., which videos they interacted with), the recommendation engine fetches the top video recommendations based on their preferences.
