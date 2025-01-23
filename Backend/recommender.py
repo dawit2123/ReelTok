@@ -4,10 +4,10 @@ from sklearn.metrics.pairwise import cosine_similarity
 # Simulated user-video interaction matrix
 # Replace this with data fetched from your database
 interaction_matrix = np.array([
-    [1, 0, 1, 0, 0],  # User 1
-    [1, 1, 0, 0, 0],  # User 2
-    [0, 1, 1, 0, 0],  # User 3
-    [0, 0, 1, 1, 1],  # User 4
+    [1, 0, 1, 0, 0], 
+    [1, 1, 0, 0, 0],  
+    [0, 1, 1, 0, 0],  
+    [0, 0, 1, 1, 1], 
 ])
 
 def recommend_videos(user_index, interaction_matrix, top_n=2):
