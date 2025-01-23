@@ -41,3 +41,16 @@ The **ReelTok** recommendation system operates in several key stages to provide 
 ---
 
 ## 🖼 Demo Screenshots
+
+### Home Page
+
+![Home Page](https://github.com/dawit2123/ReelTok/blob/main/Demo/home_page.png)
+![Home Page2](https://github.com/dawit2123/ReelTok/blob/main/Demo/home_page2.png)
+
+### Upload Video
+
+![Upload Video](https://github.com/dawit2123/ReelTok/blob/main/Demo/upload_video.png)
+
+# Edit Profile
+
+![Edit profile](https://github.com/dawit2123/ReelTok/blob/main/Demo/edit_profile.png)
