@@ -3,6 +3,11 @@ from recommender import recommend_videos, interaction_matrix
 
 app = FastAPI()
 
+
+@app.get("/")
+async def root():
+    print("Root endpoint accessed!")  
+    return {"message": "Hello World"}
 @app.post("/recommend")
 async def recommend(user_index: int, top_n: int = 2):
     """
