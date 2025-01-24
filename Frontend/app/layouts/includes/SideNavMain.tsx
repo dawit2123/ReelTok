@@ -92,7 +92,7 @@ export default function SideNavMain() {
             <p className="pt-4 px-2">
               Help Safety Terms Privacy Creator Portal Community Guidelines
             </p>
-            <p className="pt-4 px-2">© 2023 ReelTok</p>
+            <p className="pt-4 px-2">© 2025 ReelTok</p>
           </div>
 
           <div className="pb-14"></div>
