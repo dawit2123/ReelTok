@@ -8,17 +8,6 @@ Welcome to **ReelTok**! This cutting-edge platform uses advanced AI-driven recom
 
 ---
 
-## 🛠 Technologies Used
-
-<div>  
-  <img src="https://img.shields.io/badge/-React-61DAFB?&style=for-the-badge&logo=react&logoColor=white" />  
-  <img src="https://img.shields.io/badge/-Node.js-339933?&style=for-the-badge&logo=node.js&logoColor=white" />  
-  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />  
-  <img src="https://img.shields.io/badge/-FastAPI-009688?&style=for-the-badge&logo=fastapi&logoColor=white" />   
-</div>
-
----
-
 ## 🚀 How It Works
 
 The **ReelTok** recommendation system operates in several key stages to provide users with accurate and engaging video recommendations:
