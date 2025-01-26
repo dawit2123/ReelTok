@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/-Solo%20Project-f2336f?&style=for-the-badge&logoColor=white" />
 
-## 🌟 Project Vision
+## 🌟 Project Vision 
 
 Welcome to **ReelTok**! This cutting-edge platform uses advanced AI-driven recommendation algorithms to provide users with personalized video suggestions. By analyzing user interaction data, ReelTok predicts and suggests the most relevant content, enhancing user engagement. It’s designed to scale, providing accurate recommendations even for large user bases, ensuring a seamless viewing experience.
 
