@@ -43,3 +43,5 @@ The **ReelTok** recommendation system operates in several key stages to provide 
 # Edit Profile
 
 ![Edit profile](https://github.com/dawit2123/ReelTok/blob/main/Demo/edit_profile.png)
+
+#### Copyright &copy; 2025. Developed by Dawit Zewdu.
